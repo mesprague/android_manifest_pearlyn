@@ -7,5 +7,3 @@
 <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="githubcom" revision="cm-14.1" />
 <project name="omnirom/android_bootable_recovery" path="bootable/recovery-twrp" remote="githubcom" revision="android-7.1" />
 </manifest>
-
-source
